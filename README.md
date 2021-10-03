@@ -1,9 +1,12 @@
-# Lyntaler-H21
+# Lyntaler om programmering H21
+
+Formålet med lyntaler er å pirre nysgjerrigheten og å gi folk anledningen til å vise fram noe de syns er kult for et interessert publikum.
 
 - Når: 18. oktober 16:15
 - Hvor: Zoom og OJD(rom kommer)
 - Maks 15 min per tale
 - Mulighet for spørsmål etter hver tale
+
 
 ## Hva er repoet til?
 
