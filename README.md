@@ -3,9 +3,18 @@
 Formålet med lyntaler er å pirre nysgjerrigheten og å gi folk anledningen til å vise fram noe de syns er kult for et interessert publikum.
 
 - Når: 18. oktober 16:15
-- Hvor: Zoom og OJD(rom kommer)
+- Hvor: Seminarrom Java og Zoom
 - Maks 15 min per tale
 - Mulighet for spørsmål etter hver tale
+
+Talerliste:
+
+- Lars Tveito (Dynamiske visualiseringer av datastrukturer i Clojure)
+- Sivert Schou (Bluetoothkommunikasjon fra nettleseren)
+- Sondre Lunde 
+- Moren Kolstad (Programmer <-> bevis)
+- Eirik Sæther (Game of Life i tre dimensjoner)
+- Gaute Lunde & Olav Ekblom (Tegningsgeneratoren: IN1010 møter arbeidslivet)
 
 
 ## Hva er repoet til?
