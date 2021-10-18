@@ -11,7 +11,7 @@ Talerliste:
 
 - Lars Tveito (Dynamiske visualiseringer av datastrukturer i Clojure)
 - Sivert Schou (Bluetoothkommunikasjon fra nettleseren)
-- Moren Kolstad (Programmer <-> bevis)
+- Morten Kolstad (Programmer <-> bevis)
 - Eirik Sæther (Game of Life i tre dimensjoner)
 - Gaute Lunde & Olav Ekblom (Tegningsgeneratoren: IN1010 møter arbeidslivet)
 
